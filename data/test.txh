@@ -1,0 +1,5 @@
+LOAD_PN=Test
+LRU_LIST=0119
+DATAFILE=test1.bin,Data,466B
+DATAFILE=test2.bin,Data,8DF9
+USERDEF=test.txt
